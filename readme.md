@@ -5,4 +5,6 @@
 
 ### example
 
+```ruby
 $ ruby scraper.rb http://sfbay.craigslist.org/sss/
+```
