@@ -5,7 +5,6 @@ require 'csv'
 @url = ARGV[0]
 
 if @url.nil? || @url == ''
-  puts "Usage: ruby scraper.rb http://sfbay.craigslist.org/moa/"
   exit 0
 end
 
